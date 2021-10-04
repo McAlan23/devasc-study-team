@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+I am on my way to sanding the DevNet DEVASC exam
+=======
+I am on my way to passing the NetAcad DEVASC exam
+>>>>>>> test
+ I started to understand that i am dooing such fucking bullshit things in my life
+this txt was added originally while in the feature branch
